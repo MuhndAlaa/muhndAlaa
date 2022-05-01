@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://muhndalaa.github.io/portfolio/](https://muhndalaa.github.io/portfolio/)
 
-- 💬 Ask me about **JS, Angular & React**
+- 💬 Ask me about **JS, Angular 2+ & React.js**
 
 - 📫 How to reach me **Mohanad96alaa@gmail.com**
 
