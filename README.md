@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhndalaa&label=Profile%20views&color=0e75b6&style=flat" alt="muhndalaa" /> </p>
 
-- 🔭 I’m currently working at **Sayegh 1944**
+- 🔭 I’m currently working at **Kortobaa integrated solutions**
 
 - 🌱 I’m currently learning **Node.js , Express.js & MongoDB**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Mohanad96alaa@gmail.com**
 
-- ⚡ Fun fact **I Love football and a FPL player**
+- ⚡ Fun fact **I Love football and i'am a FPL player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
